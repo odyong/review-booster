@@ -102,7 +102,7 @@ const App: React.FC = () => {
               <div>
                 <h4 className="font-semibold text-slate-900 mb-4">Support</h4>
                 <p className="text-sm text-slate-500">Need help? Email us at support@reviewboost.io</p>
-                <p className="mt-2 text-xs text-slate-400">© 2024 ReviewBoost. All rights reserved.</p>
+                <p className="mt-2 text-xs text-slate-400">© 2026 ReviewBoost. All rights reserved.</p>
               </div>
             </div>
           </div>
